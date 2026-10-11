@@ -2,3 +2,4 @@ db.sql
 pass.txt
 *.log
 !importand.log
+.about.html
